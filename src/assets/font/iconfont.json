@@ -1,0 +1,23 @@
+{
+  "id": "3653362",
+  "name": "租房",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20402148",
+      "name": "三角下",
+      "font_class": "sanjiaoxia",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "79648",
+      "name": "三角1",
+      "font_class": "sanjiao1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
